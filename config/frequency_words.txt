@@ -6,6 +6,8 @@ DeepSeek
 
 a兔b熊
 
+豆包
+
 华为
 鸿蒙
 HarmonyOS
